@@ -3,7 +3,7 @@
 	"displayName": "Monokai Vibrant No Italic",
 	"description": "Based on https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant (italic fonts have been replaced with bold)",
 	"version": "0.0.1",
-	"publisher": "prashantsaroj2006",
+	"publisher": "PrashantSaroj",
 	"icon": "images/icon.png",
 	"author": "Dylan Marsh <dylan@knoware.co>",
 	"license": "MIT",
