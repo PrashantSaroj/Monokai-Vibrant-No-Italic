@@ -13,12 +13,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+		"url": "https://github.com/PrashantSaroj/Monokai-Vibrant-No-Italic"
 	},
 	"bugs": {
-		"url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+		"url": "https://github.com/PrashantSaroj/Monokai-Vibrant-No-Italic/issues"
 	},
-	"homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+	"homepage": "https://github.com/PrashantSaroj/Monokai-Vibrant-No-Italic/blob/main/README.md",
 	"engines": {
 		"vscode": "^1.15.0"
 	},
